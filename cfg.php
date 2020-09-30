@@ -21,9 +21,9 @@
 		'vkc_course' => 1,
 		'comission' => 5,
 
-		'game_time' => 0,
-		'minbet' => 0,
-		'maxbet' => 0,
+		'game_time' => 70,
+		'minbet' => 1,
+		'maxbet' => 10000000000,
 
 		'multipliers' => [
 			'primary' => 1.5,
